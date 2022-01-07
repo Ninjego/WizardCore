@@ -1,0 +1,8 @@
+name: WizardCore
+version: '${project.version}'
+main: me.ninjego.wizardcore.WizardCore
+authors: [ Ninjego, Snobrow ]
+description: Core for Wizard server
+
+commands:
+  wand:
